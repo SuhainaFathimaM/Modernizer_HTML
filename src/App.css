@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 30px;
+}
+
+.file-input {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.modernize-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.preview {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+}
