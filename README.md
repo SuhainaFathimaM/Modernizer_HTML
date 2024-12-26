@@ -42,9 +42,20 @@ The **HTML Modernizer Tool** is a web-based application designed to transform ou
    git clone https://github.com/your-username/html-modernizer-tool.git
    ```
 
-2. Navigate to the project directory:
+2. Install dependencies for both frontend and backend:
    ```bash
-   cd html-modernizer-tool
+   cd client
+   npm install
+   cd ../server
+   npm install
    ```
 
-3. 
+### **Running the Application**
+1. Start the backend server:
+   ```bash
+   cd server
+   npm start
+   ```
+2. Start the frontend:
+
+
