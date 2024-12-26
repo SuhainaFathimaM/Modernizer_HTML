@@ -40,3 +40,11 @@ The **HTML Modernizer Tool** is a web-based application designed to transform ou
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/html-modernizer-tool.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd html-modernizer-tool
+   ```
+
+3. 
